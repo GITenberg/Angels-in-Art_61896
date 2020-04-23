@@ -1,5 +1,8 @@
 _repo: Angels-in-Art_61896
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61896-h/images/cover.jpg
 creator:
   author:
     agent_name: Waters, Clara Erskine Clement
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4195
     wikipedia: https://en.wikipedia.org/wiki/Clara_Erskine_Clement
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61896#Angels-in-Art
 gutenberg_issued: '2020-04-22'
 gutenberg_type: Text
 identifiers:
