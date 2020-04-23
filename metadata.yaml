@@ -1,0 +1,24 @@
+_repo: Angels-in-Art_61896
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waters, Clara Erskine Clement
+    alias: Clement, Clara Erskine
+    birthdate: 1834
+    deathdate: 1916
+    gutenberg_agent_id: '4195'
+    url: http://www.gutenberg.org/2009/agents/4195
+    wikipedia: https://en.wikipedia.org/wiki/Clara_Erskine_Clement
+description: ''
+gutenberg_issued: '2020-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Angels in Art
+url: http://www.gutenberg.org/ebooks/61896
